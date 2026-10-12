@@ -1,0 +1,16 @@
+# Python
+.venv
+uv.lock
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# IDE
+.vscode/
+
+# Data
+data/
+cache/

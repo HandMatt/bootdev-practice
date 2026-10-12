@@ -1,0 +1,7 @@
+[project]
+name = "BuildAnAIAgentInPython"
+version = "0.1.0"
+description = "Boot.dev course: Build an AI agent in Python"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["openai==2.44.0", "python-dotenv==1.1.0"]
